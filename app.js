@@ -22,3 +22,8 @@ function playRound(playerSelection, computerSelection){
     }
 }
 
+let computerSelection = getComputerChoice();
+let playerSelection = prompt = ("what is your choice?");
+console.log(computerSelection);
+console.log(playRound(playerSelection, computerSelection));
+
